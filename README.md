@@ -1,4 +1,4 @@
-# :brain: Parkinsons Disease Detection
+# :brain: Parkinson's Disease Detection
 The objective of this project is to detect the presence of Parkinson’s disease in a human using various Machine Learning Algorithms at an early stage to halt the further progression of this deadly disease.
 
 ## Motivation
@@ -25,9 +25,9 @@ The proposed methodology extracts ten features from the vocal recordings namely:
 
 
 ## Performance Evaluation
-
 ![performance evaluation](https://user-images.githubusercontent.com/48889754/118778542-d3f48a00-b8a7-11eb-9373-e1cd0f4b54d4.PNG)
 
+## Principal Component Analysis
 ![Principal component analysis](https://user-images.githubusercontent.com/48889754/118778726-030afb80-b8a8-11eb-83cc-86e3316b3f09.PNG)
 
 
