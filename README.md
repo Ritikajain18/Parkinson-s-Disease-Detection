@@ -23,9 +23,13 @@ The proposed methodology extracts ten features from the vocal recordings namely:
 - DFA	          - Signal fractal scaling exponent
 - spread1, spread2, PPE	 - Three nonlinear measures of fundamental frequency variation
 
+
 ## Performance Evaluation
 
 ![performance evaluation](https://user-images.githubusercontent.com/48889754/118778542-d3f48a00-b8a7-11eb-9373-e1cd0f4b54d4.PNG)
+
+![Principal component analysis](https://user-images.githubusercontent.com/48889754/118778726-030afb80-b8a8-11eb-83cc-86e3316b3f09.PNG)
+
 
 ## Dataset reference
 The dataset which has been used for the analysis has been obtained by Max Little of the University of Oxford, in collaboration with the National Centre for Voice and Speech, Denver, Colorado, who recorded the speech signals. This dataset was given to UCI Machine learning Repository, Center for Machine Learning and Intelligent Systems. The dataset consists of biomedical voice measurements of 31 people, out of which 23 have Parkinson’s disease. Each column in the relation is a voice measure and each row corresponds one of 195 voice recording from individuals.
